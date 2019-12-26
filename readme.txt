@@ -3,6 +3,4 @@ Hi I am llljh
 I am chinese
 is change
 change 11
-test checkout 1
-creating a new branch is quick AND simple
-change --no--ff2222
+--no--ff
